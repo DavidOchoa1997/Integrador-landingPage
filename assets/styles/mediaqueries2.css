@@ -1,0 +1,36 @@
+@media (min-width: 300px) and (max-width: 425px){
+
+.login-info{
+    width: 100%;
+}
+.login-container form{
+    width: 100%;
+}
+form input{
+    width: 85%;
+}
+form input[type="submit"]{
+    width: 50% ;
+
+}
+
+.register-info .form-register{
+    width: 100%;
+    overflow-y: hidden;
+}
+
+.register-info p{
+    width: 100%;
+    font-size: 18px;
+    overflow-y: hidden;
+   
+}
+.verification p{
+    font-size: 16px;
+    word-spacing: 1px;
+}
+
+
+
+}
+

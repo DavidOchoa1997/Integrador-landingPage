@@ -1,0 +1,483 @@
+    
+@media (min-width: 320px) and (max-width: 425px){
+    #hero{
+        padding-top: 12rem;
+    }
+    .hero-info{
+        display: block;
+        width: 80%;
+    }
+    
+    .hero-info h1{
+        width: 100%;
+        font-size: 38px;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+    .hero-info h2{
+        font-size: 24px ;
+        padding-top: 1rem;
+        text-align: center;
+    }
+    .hero-info p{
+        font-size: 20px;
+        padding-top: 1rem;
+        text-align: center;
+    }
+    .back-video{
+        width: 80%;
+        padding-top: 1rem;
+    }
+
+    #about-us h2{
+        font-size: 40px;
+    }
+    .about-us__section1 p{
+        width: 80%;
+        font-size: 18px;
+        text-align: justify;
+    }
+    .container-pic1{
+        width: 85%;
+        padding-bottom: .5rem;
+    }
+    .container-pic2{
+        width: 85%;
+
+    }
+    .about-us__section2{
+        flex-direction: column;
+    }
+    .about-us__section2 p{
+        width: 80%;
+        font-size: 18px;
+        text-align: justify;
+        order: 2;
+        padding-bottom: 1rem;
+    }
+    .container-pic3{
+        width: 85%;
+    }
+    .about-us__section3 p{
+        width: 80%;
+        font-size: 18px;
+        text-align: justify;
+        order: 2;
+        padding-bottom: 1rem;
+
+    }
+    #cards{
+        padding-top: 1rem;
+    }
+    #cards h2,h3,h4{
+        font-size: 28px;
+    }
+    .course-description ul li{
+        font-size: 18px;
+    }
+    .software-developer__card,.digital-marketing__card{
+        width: 90%;
+        gap: .5rem;
+        flex-direction: column;
+        height: 350px;
+    }
+    .software-developer__card .digital-marketing, img{
+        height: 180px;
+    }
+    .card-info h5{
+        font-size: 18px;
+    }
+    .card-info p{
+        text-align: center;
+        font-size: 15px;
+        width: 90%;
+        
+    }
+   
+    #contact h3{
+        font-size: 40px;
+    }
+    #contact p{
+        font-size:18px ;
+    }
+    #contact h4{
+        width: 100%;
+        text-align: center;
+        padding: 0 5px;
+    }
+    .contact-items{
+        width: 100%;
+    }
+    .contact-items a{
+        font-size: 17px;
+        width: 100%;
+    }
+    .social-media{
+        gap:1rem;
+        width: 80%;
+    }
+    .iframe-container{
+        width: 85%;
+    }
+    .adress small{
+        font-size: 18px;
+    }
+}
+@media (min-width: 426px) and (max-width: 550px){
+    #hero{
+        padding-top: 12rem;
+    }
+    .hero-info{
+        display: block;
+        width: 100%;
+    }
+    .hero-info h1{
+        width: 100%;
+        font-size: 45px;
+        letter-spacing: 1px;
+        text-align: center;
+       
+    }
+    .hero-info h2{
+        width: 100%;
+        font-size: 24px ;
+        padding-top: 1rem;
+        text-align: center;
+    }
+    .hero-info p{
+        font-size: 20px;
+        padding-top: 1rem;
+        text-align: center;
+    }
+    .back-video{
+        width: 82%;
+        padding-top: 1rem;
+    }
+    #about-us h2{
+        font-size: 40px;
+    }
+    .about-us__section1 p{
+        width: 90%;
+        font-size: 19px;
+        text-align: justify;
+    }
+    .container-pic1{
+        width: 65%;
+        padding-bottom: .5rem;
+    }
+    .container-pic2{
+        width: 65%;
+
+    }
+    .about-us__section2 p{
+        width:90%;
+        font-size: 19px;
+        text-align: justify;
+        padding-bottom: .5rem;
+    }
+    .container-pic3{
+        width: 65%;
+        padding-bottom: .5rem;
+
+    }
+    .about-us__section3 p{
+        width:90%;
+        font-size: 19px;
+        text-align: justify;
+        
+    }
+    #cards h2,h3,h4{
+        font-size: 35px;
+
+    }
+    .course-description ul li{
+        font-size: 20px;
+    }
+    .iframe-container{
+        width: 85%;
+    }
+    }
+    @media (min-width: 600px) and (max-width: 768px){
+       
+        .container-pic1{
+            width: 80%;
+            padding-bottom: .5rem;
+            height: auto;
+        }
+        .container-pic2{
+            padding-top: .5rem;
+            width: 80%;
+            height: auto;
+        }
+        .container-pic3{
+            width: 65%;
+            padding-bottom: .5rem;
+           
+        }}
+     
+    @media (min-width: 550px) and (max-width: 768px){
+        #hero{
+            padding-top: 12rem;
+        }
+        .hero-info{
+            display: block;
+            width: 80%;
+        }
+        
+        .hero-info h1{
+            width: 100%;
+            font-size: 45px;
+            letter-spacing: 1px;
+            text-align: center;
+        }
+        .hero-info h2{
+            font-size: 30px ;
+            padding-top: 1rem;
+            text-align: center;
+            width: 100%;
+        }
+        .hero-info p{
+            font-size: 25px;
+            padding-top: 1rem;
+            width: 100%;
+            text-align: center;
+        }
+        .back-video{
+            width: 80%;
+            padding-top: 1rem;
+        }
+    
+        #about-us h2{
+            font-size: 40px;
+        }
+        .about-us__section1 p{
+            width: 80%;
+            font-size: 18px;
+            text-align: justify;
+        }
+        .container-pic1{
+            width: 65%;
+            padding-bottom: .5rem;
+        }
+        .container-pic2{
+            width: 65%;
+    
+        }
+        .about-us__section2{
+            flex-direction: column;
+        }
+        .about-us__section2 p{
+            width: 80%;
+            font-size: 18px;
+            text-align: justify;
+            order: 2;
+            padding-bottom: 1rem;
+        }
+        .container-pic3{
+            width: 65%;
+            padding-bottom: .5rem;
+            height: 60%;
+        }
+        .about-us__section3 p{
+            width: 80%;
+            font-size: 18px;
+            text-align: justify;
+            order: 2;
+            padding-bottom: 1rem;
+    
+        }
+        .software-developer__card,.digital-marketing__card{
+            width: 55%;
+            gap: .5rem;
+            flex-direction: column;
+            height: 350px;
+        }
+        .card-info p{
+            text-align: center;
+            font-size: 18px;
+            width: 100%;
+            padding: 0;
+        }
+        #cards h2,h3,h4{
+            text-align: center;
+            font-size: 30px;
+
+    }}
+    @media (min-width: 769px) and (max-width: 1024px){
+        #hero{
+            padding-top: 2rem;
+            display: flex;
+            flex-wrap: nowrap;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 2rem;
+           
+        }
+        .hero-info{
+            display: flex;
+            width: 100%;
+        }
+        .hero-info h1{
+            width: 100%;
+            font-size: 55px;
+            letter-spacing: 1px;
+            text-align: center;
+            align-items: center;
+        }
+        .hero-info h2{
+            font-size: 35px ;
+            padding-top: 1rem;
+            text-align: center;
+            padding: 0 5px 0 5px;
+        }
+        .hero-info p{
+            font-size: 25px;
+            padding-top: 1rem;
+            text-align: center;
+            width: 100%;
+            padding: 0 5px 0 5px;
+         
+        }
+        #about-us h2{
+            font-size: 45px;
+        }
+        .about-us__section1 p{
+            width: 80%;
+            font-size: 21px;
+            text-align: justify;
+        }
+        .container-pic1{
+            width: 65%;
+            padding-bottom: .5rem;
+            height: 355px;
+        }
+        .container-pic1 img{
+            width: 90%;
+            height: 90%;
+           
+        }
+        .container-pic2{
+            width: 65%;
+            padding-bottom: .5rem;
+            height: 355px;
+        }
+        .container-pic2 img{
+            width: 90%;
+            height: 90%;
+           
+        }
+        .about-us__section2 p{
+            width: 80%;
+            font-size: 21px;
+            text-align: justify;
+            padding-bottom: 2rem;
+        }
+        .container-pic3{
+            width: 65%;
+            padding-bottom: .5rem;
+            height: 355px;
+        }
+        .container-pic3 img{
+            width: 90%;
+            height: 90%;
+           
+        }
+        .about-us__section3 p{
+            width: 80%;
+            font-size: 21px;
+            text-align: justify;
+           
+        }
+        .email a{
+            font-size: 18px;
+        }
+}
+@media (min-width: 1025px) and (max-width: 1100px){
+    #hero{
+        padding-top: 2rem;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+       
+    }
+    .hero-info{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        text-align: left;
+    }
+    .back-video{
+        height: auto;
+        width: 420px;
+        border-radius: 30px;
+    }
+
+}
+@media (min-width: 1000px){
+    .contact-info{
+        padding-top: 2rem;
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+        padding: 3rem 1rem 0 1rem;
+        
+    }
+}
+@media (min-width: 1300px){
+    #contact{
+        max-width: 1250px;
+    }
+}
+
+    
+    
+    
+
+
+
+   
+
+
+     
+    
+    
+    
+    @media (max-width: 670px){
+    .nav-bar__items{
+    position: absolute;
+    top:138px;
+    left: 0;
+    align-items: center;
+    flex-direction: column;
+    border: solid black 2px;
+   width: 100%;
+   border-top: none;
+    border-radius: 30px;
+    gap: 15px;
+    padding: 40px 50px 50px 40px;
+    z-index: 3;
+    background-color: rgba(255, 255, 255, 0.81);
+    display: none;
+
+    }
+    .nav-bar i{
+        display: block
+        ;
+    }
+    #toggle-menu:checked + .nav-bar__items{
+        display: flex;
+    }
+   
+
+  
+
+}
+   
+    
+ 
+ 
