@@ -90,7 +90,8 @@
     .card-info p{
         text-align: center;
         font-size: 15px;
-        width: 90%;
+        width: 100%;
+        padding: 0 5px;
         
     }
    
@@ -103,7 +104,14 @@
     #contact h4{
         width: 100%;
         text-align: center;
-        padding: 0 5px;
+        padding-top: 1rem;
+    }
+    .contact-items div{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: .5rem;
     }
     .contact-items{
         width: 100%;
@@ -122,6 +130,10 @@
     .adress small{
         font-size: 18px;
     }
+    form input[type="submit"]{
+        width: 50%;
+    }
+
 }
 @media (min-width: 426px) and (max-width: 550px){
     #hero{

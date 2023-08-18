@@ -301,7 +301,8 @@ main{
 .card-info{
     display: flex;
     flex-direction:column;
-    gap: .5rem;
+    gap: .4rem;
+    width: 100%;
   
 }
 .card-info h5{
@@ -314,6 +315,7 @@ main{
     text-align: center;
     font-size: 18px;
     text-align: center;
+    width: 100%;
 }
 
 .software-developer__card .digital-marketing, img{
@@ -447,8 +449,8 @@ form input[type="submit"]:hover{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 2rem;
-    width: 70%;
+    gap: 1rem;
+    width: 100%;
 }
 .login-register{
     display: flex;
