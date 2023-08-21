@@ -42,10 +42,7 @@ header{
     padding: 5px 0;
     flex-wrap: wrap;
     z-index: 2;
-
-    
 }
-
 header img{
     height: 130px;
     width: 130px;
@@ -72,14 +69,11 @@ header img{
 .nav-bar i{
    display: none;
 }
-.nav-bar__items{
+.nav-bar__items {
     display: flex;
     gap: 2rem;
     justify-content: center;
 }
-
-
-
 main{
     background: linear-gradient(90deg, var(--cool-gray), var(--space-cadet));
     width: 100%;
