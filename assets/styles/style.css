@@ -386,11 +386,24 @@ form input{
     border-radius: 9px;
     border: solid black 2px;
 }
-    form textarea{
+.form-container input:hover{
+    background-color: var(--fire-engine-red);
+    transition: 1.5s;
+    border: solid white;
+}
+.form-container input:hover::placeholder{
+    color: white;
+}
+    
+form textarea{
     border-radius: 9px;
-    width: 80%;
+    width: 70%;
     resize: none;
     border: solid black 2px;
+}
+form textarea::placeholder{
+    text-align: center;
+    padding-top: 1rem;
 }
 form input[type="submit"]{
     width: 25%;

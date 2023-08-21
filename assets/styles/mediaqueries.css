@@ -135,7 +135,7 @@
     }
 
 }
-@media (min-width: 426px) and (max-width: 550px){
+@media (min-width: 426px) and (max-width: 559px){
     #hero{
         padding-top: 12rem;
     }
@@ -169,7 +169,7 @@
         font-size: 40px;
     }
     .about-us__section1 p{
-        width: 90%;
+        width: 80%;
         font-size: 19px;
         text-align: justify;
     }
@@ -182,7 +182,7 @@
 
     }
     .about-us__section2 p{
-        width:90%;
+        width:80%;
         font-size: 19px;
         text-align: justify;
         padding-bottom: .5rem;
@@ -193,14 +193,31 @@
 
     }
     .about-us__section3 p{
-        width:90%;
+        width:80%;
         font-size: 19px;
         text-align: justify;
         
     }
+    .software-developer__card,.digital-marketing__card{
+       
+        gap: .5rem;
+        flex-direction: column;
+        height: 350px;
+    }
     #cards h2,h3,h4{
-        font-size: 35px;
+        font-size: 33px;
 
+    }
+    .card-info p{
+        text-align: center;
+        font-size: 18px;
+        width: 100%;
+        padding: 0 5px;
+        
+
+    }
+    .software-developer__card,.digital-marketing__card{
+        width: 400px;
     }
     .course-description ul li{
         font-size: 20px;
@@ -299,7 +316,7 @@
     
         }
         .software-developer__card,.digital-marketing__card{
-            width: 55%;
+            width: 75%;
             gap: .5rem;
             flex-direction: column;
             height: 350px;

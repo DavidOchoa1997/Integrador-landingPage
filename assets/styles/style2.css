@@ -83,12 +83,12 @@ input:hover{
 }
 
 form input[type="submit"]{
-    width: 280px;
+    width: 200px;
     align-self: center;
     background-color: var(--fire-engine-red);
     border: solid var(--paragraph--) 2px;
     font-weight: bolder;
-    padding: 5px 0;
+    padding: 15px 5px;
 }
 
 
@@ -140,6 +140,7 @@ form input[type="submit"]{
 .verification p{
     color: var(--paragraph--);
     font-size: 20px;
+    width: 100%;
 }
 .register-container a{
     text-decoration: none;
